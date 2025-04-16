@@ -18,7 +18,7 @@ We welcome different types of presentations relevant to Vision & Language and Mu
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
 |1 | 2025-01-15 | Yingjin | Pilot human experiments |  |
-|2 | 2025-01-29 | Marijn |  |  |
+|2 | 2025-01-29 | Marijn | First results audio classification for low literacy speakers | [slides](slides/VL20250129_MS_low_literacy.pdf) |
 |3 | 2025-02-12 | Hugh Mee, Yupei, Yingjin, Anna | Proofreading session for ACL submissions |  |
 |4 | 2025-02-26 | Canceled |  |  |
 |5 | 2025-03-12 | Canceled: ICS research Day |                                          |  |
