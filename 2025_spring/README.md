@@ -27,8 +27,8 @@ We welcome different types of presentations relevant to Vision & Language and Mu
 |8 | 2025-04-23 | Nan |  |  |
 |9 | 2025-05-07 | Filippo |  |  |
 |10 | 2025-05-21 | Yingjin |  |  |
-|11 | 2025-06-04 | |  |  |
-|12 | 2025-06-18 | |  |  |
+|11 | 2025-06-04 | Davide |  |  |
+|12 | 2025-06-18 | Yupei |  |  |
 |13 | 2025-07-02 |                                |                                          |           |
 |      |            |                                |                                          |           |
 |      |            |  |  |  |
