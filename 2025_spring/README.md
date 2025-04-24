@@ -24,7 +24,7 @@ We welcome different types of presentations relevant to Vision & Language and Mu
 |5 | 2025-03-12 | Canceled: ICS research Day |                                          |  |
 |6 | 2025-03-26 | Albert | Language Models and World Models (Vafa et al., 2023) | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2f6a6317bada76b26a4f61bb70a7db59-Paper-Conference.pdf), [slides](slides/VL20250326_AG_world-models.pdf) |
 |7 | 2025-04-09 | Hugh Mee | Reducing Hallucinations via Latent-Space Steering (Liu et al., 2025)| [paper](https://arxiv.org/pdf/2410.15778), [slides (ppt)](slides/VL20250409_HW_hallucinations.pptx), [slides (pdf)](slides/VL20250409_HW_hallucinations.pdf),           |
-|8 | 2025-04-23 | Nan |  |  |
+|8 | 2025-04-23 | Nan | Interpreting Visual Information Processing in VLMs (Neo et al., ICLR 2025) | [paper](https://openreview.net/forum?id=chanJGoa7f), [slides](https://docs.google.com/presentation/d/1U-0u3PgGmDc4rDVo1sl0T9lJfwEDtzmePGxw_X1Qstw/edit?usp=sharing) |
 |9 | 2025-05-07 | Filippo |  |  |
 |10 | 2025-05-21 | Yingjin |  |  |
 |11 | 2025-06-04 | Davide |  |  |
