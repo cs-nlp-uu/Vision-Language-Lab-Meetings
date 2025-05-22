@@ -26,7 +26,7 @@ We welcome different types of presentations relevant to Vision & Language and Mu
 |7 | 2025-04-09 | Hugh Mee | Reducing Hallucinations via Latent-Space Steering (Liu et al., 2025)| [paper](https://arxiv.org/pdf/2410.15778), [slides (ppt)](slides/VL20250409_HW_hallucinations.pptx), [slides (pdf)](slides/VL20250409_HW_hallucinations.pdf),           |
 |8 | 2025-04-23 | Nan | Interpreting Visual Information Processing in VLMs (Neo et al., ICLR 2025) | [paper](https://openreview.net/forum?id=chanJGoa7f), [slides](https://docs.google.com/presentation/d/1U-0u3PgGmDc4rDVo1sl0T9lJfwEDtzmePGxw_X1Qstw/edit?usp=sharing) |
 |9 | 2025-05-07 | Filippo | Multimodal Mechanistic Interpretability, Causal Tracing | [slides](slides/filippo_slides.pdf) |
-|10 | 2025-05-21 | Yingjin |  |  |
+|10 | 2025-05-21 | Yingjin | 'Longer' CLIP: Long-CLIP (Zhang et al., 2024), TULIP (Najdenkoska et al., 2025) | [slides](slides/longer_clip.pdf) |
 |11 | 2025-06-04 | Davide |  |  |
 |12 | 2025-06-18 | Yupei |  |  |
 |13 | 2025-07-02 |                                |                                          |           |
